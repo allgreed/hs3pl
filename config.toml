@@ -1,13 +1,23 @@
-baseurl = "https://c74ce35e.ngrok.io" # Controls base URL
+# Master config
+baseurl = "https://c74ce35e.ngrok.io"
 languageCode = "pl"
 title = "hack3rspace"
-enableRobotsTXT = true
 
+# SEO config
+enableRobotsTXT = true
+DisableRSS = true
 [params]
 description = "" # Suggested, controls default description meta
+
+# Minor config
 show_menu = true
 powered_by = true
 
+################
+# Noob editable
+################
+
+# Menu config
 [[menu.main]]
 name = "Start"
 weight = 1
