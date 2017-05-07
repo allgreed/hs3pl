@@ -73,6 +73,25 @@ To begin you'll need to have installed:
     hugo serve
 ```
 
+### Adding new pages
+
+```
+    hugo new page/PAGENAME.md
+```
+
+### Adding items to the menu
+
+To ```config.toml``` append following snippet:
+
+```
+    [[menu.main]]
+    name = "MENU-ITEM-NAME"
+    weight = WEIGHT
+    url = "/page/PAGENAME.md"
+```
+
+Where WEIGHT is an integer from 2 to 999 that describes item order (ascending from the left)
+
 <!-- 1. Run the build system in development mode
 
     ```sh
