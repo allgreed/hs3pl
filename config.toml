@@ -1,0 +1,24 @@
+baseurl = "https://c74ce35e.ngrok.io" # Controls base URL
+languageCode = "pl"
+title = "hack3rspace"
+enableRobotsTXT = true
+
+[params]
+description = "" # Suggested, controls default description meta
+show_menu = true
+powered_by = true
+
+[[menu.main]]
+name = "Start"
+weight = 1
+url = "/"
+
+[[menu.main]]
+name = "About"
+weight = 2
+url = "/page/about/"
+
+[[menu.main]]
+name = "Github"
+weight = 1000
+url = "https://github.com/hs3city"
