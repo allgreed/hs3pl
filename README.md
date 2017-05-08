@@ -45,7 +45,7 @@ To begin you'll need to have installed:
     ```    
      -->
 
-**Caution! - be sure to install the latest version of Hugo**
+**Caution! - make sure to install the latest version of Hugo**
 
 ## Setup
 
