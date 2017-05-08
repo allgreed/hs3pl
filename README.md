@@ -25,7 +25,7 @@ Markdown knwolegde is required.
 2. Try strange use cases
 3. When you find a bug - submit an issue.
 
-### Other
+### Other / Code
 
 If you'd like to write code please contact the maintainer.
 
