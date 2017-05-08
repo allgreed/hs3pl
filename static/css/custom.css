@@ -9,3 +9,15 @@ body.hack.dark.main, body *
     opacity: .85;
     padding-bottom: .5rem;
 }
+
+.under-construction
+{
+    margin: 1rem 0;
+    background-color: rgba(0,0,255,.5);
+    text-align: center;
+}
+
+.under-construction strong
+{
+    color: cyan !important;
+}
