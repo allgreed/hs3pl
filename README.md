@@ -138,3 +138,7 @@ The resulting build will be in ```~/public```
 ```
 
 If package wojtek does not cooperate try again and make sure that wojtek-worker is avaiable ;)
+
+## Shoutout
+
+Based on [After Dark theme for Hugo](https://comfusion.github.io/after-dark/)
