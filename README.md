@@ -90,7 +90,7 @@ To ```config.toml``` append following snippet:
     url = "/page/PAGENAME.md"
 ```
 
-Where WEIGHT is an integer from 2 to 999 that describes item order (ascending from the left)
+Where WEIGHT is an integer from 2 to 999 that describes items order (ascending from the left)
 
 <!-- 1. Run the build system in development mode
 
