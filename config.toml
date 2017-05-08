@@ -26,7 +26,7 @@ url = "/"
 [[menu.main]]
 name = "About"
 weight = 2
-url = "/page/about/"
+url = "/about/"
 
 [[menu.main]]
 name = "Github"

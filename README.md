@@ -76,7 +76,7 @@ To begin you'll need to have installed:
 ### Adding new pages
 
 ```
-    hugo new page/PAGENAME.md
+    hugo new PAGENAME.md
 ```
 
 ### Adding items to the menu
