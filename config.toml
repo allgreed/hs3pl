@@ -19,16 +19,16 @@ powered_by = true
 
 # Menu config
 [[menu.main]]
-name = "Start"
+name = "start"
 weight = 1
 url = "/"
 
 [[menu.main]]
-name = "About"
+name = "kontakt"
 weight = 2
-url = "/about/"
+url = "/kontakt/"
 
 [[menu.main]]
-name = "Github"
+name = "github"
 weight = 1000
 url = "https://github.com/hs3city"
