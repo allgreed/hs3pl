@@ -3,13 +3,5 @@ description = ""
 title = "Home"
 +++
 
-Dupa xD
+To jest hackerspace
 
-## Wojtek, Ty chuju!!!
-
-Randomowa lista:
-
-+ lista rzeczy
-    + zagnieżdżona
-+ lista
-+ lista
