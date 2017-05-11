@@ -15,7 +15,6 @@ description = "" # Suggested, controls default description meta
 
 # Minor config
 show_menu = true
-powered_by = true
 
 ################
 # Menu config
