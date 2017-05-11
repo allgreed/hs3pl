@@ -9,7 +9,8 @@ title = "hack3rspace"
 
 # SEO config
 enableRobotsTXT = true
-DisableRSS = true
+DisableRSS = true # This is not a fucking blog
+
 [params]
 description = "" # Suggested, controls default description meta
 
