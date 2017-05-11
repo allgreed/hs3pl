@@ -1,3 +1,7 @@
+################
+# Dev config
+################
+
 # Master config
 baseurl = "https://c74ce35e.ngrok.io"
 languageCode = "pl"
@@ -14,19 +18,8 @@ show_menu = true
 powered_by = true
 
 ################
-# Noob editable
-################
-
 # Menu config
-[[menu.main]]
-name = "start"
-weight = 1
-url = "/"
-
-[[menu.main]]
-name = "kontakt"
-weight = 2
-url = "/kontakt/"
+################
 
 [[menu.main]]
 name = "github"

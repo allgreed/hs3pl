@@ -81,6 +81,12 @@ To begin you'll need to have installed:
 
 ### Adding items to the menu
 
+#### Pages
+
+Pages are added automatically, just specify the weight and title in front matter.
+
+#### External links
+
 To ```config.toml``` append following snippet:
 
 ```
@@ -90,7 +96,7 @@ To ```config.toml``` append following snippet:
     url = "/page/PAGENAME.md"
 ```
 
-Where WEIGHT is an integer from 2 to 999 that describes items order (ascending from the left)
+Where ```weight``` is an integer from that describes items order (ascending from the left)
 
 <!-- 1. Run the build system in development mode
 
