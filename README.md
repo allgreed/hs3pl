@@ -1,4 +1,4 @@
-# inf_main-site
+# hs3pl
 
 ## Overview
 
@@ -8,7 +8,7 @@ Current maintainer: [Allgreed](https://github.com/allgreed)
 
 ## Contributing
 
-### Submit ideas
+### Submit ideas and reporting bugs
 1. Just drop'em as issues :D
 
 ### Write content
@@ -93,7 +93,7 @@ To ```config.toml``` append following snippet:
     [[menu.main]]
     name = "MENU-ITEM-NAME"
     weight = WEIGHT
-    url = "/page/PAGENAME.md"
+    url = "https://example.com"
 ```
 
 Where ```weight``` is an integer from that describes items order (ascending from the left)
@@ -140,10 +140,10 @@ The resulting build will be in ```~/public```
 ## Deploy
 
 ```
-    wojtek deploy
+    . deploy.sh
 ```
 
-If package wojtek does not cooperate try again and make sure that wojtek-worker is avaiable ;)
+```deploy.sh``` requires executive privilages, trash alias (as deleting / moving to trash), hugo alias and push access to hs3city.github.io repository
 
 ## Shoutout
 
