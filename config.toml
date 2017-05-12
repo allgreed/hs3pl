@@ -1,24 +1,27 @@
-################
-# Basic config
-################
+# Basics
+#=================
 
 baseurl = "https://c74ce35e.ngrok.io"
 languageCode = "pl"
 
-################
-# SEO config
-################
-
-enableRobotsTXT = true
-DisableRSS = true # This is not a fucking blog
+#=================
+# Meta
+#=================
 
 title = ""
 [params]
 description = "" # Suggested, controls default description meta
 
-################
-# Menu config
-################
+#=================
+# Dev
+#=================
+
+enableRobotsTXT = true
+DisableRSS = true # This is not a fucking blog
+enableGitInfo = true
+
+#=================
+# Menu
 
 [[menu.main]]
 name = "github"
