@@ -1,21 +1,20 @@
 ################
-# Dev config
+# Basic config
 ################
 
-# Master config
 baseurl = "https://c74ce35e.ngrok.io"
 languageCode = "pl"
-title = "hack3rspace"
 
+################
 # SEO config
+################
+
 enableRobotsTXT = true
 DisableRSS = true # This is not a fucking blog
 
+title = ""
 [params]
 description = "" # Suggested, controls default description meta
-
-# Minor config
-show_menu = true
 
 ################
 # Menu config
