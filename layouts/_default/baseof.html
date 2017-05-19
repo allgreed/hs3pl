@@ -24,9 +24,11 @@
         <link rel="stylesheet" type="text/css" href="/css/custom.css">
     </head>
 
-    <body class="hack dark main container">
+    <body class="hack dark main">
         <header>{{ block "header" . }}{{ end }}</header>
-        <main>{{ block "main" . }}{{ end }}</main>
-        <footer>{{ block "footer" . }}{{ end }}</footer>
+        <div class="container">
+            <main>{{ block "main" . }}{{ end }}</main>
+            <footer>{{ block "footer" . }}{{ end }}</footer>
+        </div>
     </body>
 </html>

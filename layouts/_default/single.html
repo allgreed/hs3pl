@@ -3,9 +3,9 @@
 {{- end }}
 {{ define "header" }}
     <img src="/img/logo2.png" alt="Hackerspace trójmiasto" class="hacker-logo">
-    {{ partial "menu.html" . }}
 {{ end }}
 {{ define "main" }}
+{{ partial "menu.html" . }}
     {{ .Content }}
 {{ end }}
 {{ define "footer" }}

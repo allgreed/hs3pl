@@ -5,9 +5,11 @@ body.hack.dark.main, body *
 
 .hacker-logo
 {
-    width: 100%;
+    width: 80%;
     opacity: .85;
-    padding-bottom: .5rem;
+    padding-bottom: 1rem;
+    display: block;
+    margin: 0 auto;
 }
 
 .under-construction
@@ -95,7 +97,7 @@ nav a.active {
 
 h1.menu-item__active
 {
-    display: inline-block;
+    display: inline;
     padding: 0;
     overflow: unset;
     text-transform: lowercase;
