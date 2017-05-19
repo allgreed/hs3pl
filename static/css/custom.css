@@ -5,11 +5,12 @@ body.hack.dark.main, body *
 
 .hacker-logo
 {
-    width: 80%;
+    min-width: 80%;
     opacity: .85;
     padding-bottom: 1rem;
     display: block;
     margin: 0 auto;
+    max-width: 100%;
 }
 
 .under-construction
