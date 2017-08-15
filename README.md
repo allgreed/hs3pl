@@ -58,7 +58,7 @@ To begin you'll need to have installed:
 2. Navigate to the main folder
 
     ```sh
-        $ cd inf_main-site
+        $ cd hs3pl
     ```    
     
 <!-- 3. Fetch dependencies
